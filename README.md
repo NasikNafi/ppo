@@ -1,5 +1,5 @@
 # PPO
-Basic implementation of PPO which is largely based on the implementation available [here](https://github.com/rraileanu/idaac).
+Basic implementation of Proximal Policy Gradient [(PPO)](https://arxiv.org/abs/1707.06347) which is largely based on the implementation available [here](https://github.com/rraileanu/idaac).
 
 # Dependencies
 Run the following to create the environment and install the required dependencies: 
